@@ -16,3 +16,6 @@ Telegram Bot
 Node RED Connection
   left to right: Command, Function, Assistant, Function, Sender
 ![node red](https://user-images.githubusercontent.com/66410682/84588700-58e75000-ae5c-11ea-8166-920218492a77.PNG)
+
+Integrating Watson Assistant with Facebook Messenger
+  ![Capturefb bot page](https://user-images.githubusercontent.com/66410682/84589469-3b68b500-ae61-11ea-8c7a-1b4fba0016e9.PNG)
