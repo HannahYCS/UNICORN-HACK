@@ -5,3 +5,10 @@ IBM Cloud > Catalog > Node RED > Create
 
 IBM Cloud > Resource List > services > Cloudants >
   Connect Waston Assistant Chatbot to Node RED
+
+Open Application >
+  Install Telegram Module
+  Drag in 'Telegram Command' and 'Telegram Sender'
+  Drag in 2 'Functions'
+  Drag in 'Assistant'
+    Connect according to screenshot in readme
